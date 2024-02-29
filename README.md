@@ -26,4 +26,4 @@ For developing the game ; <br>
 
 - **Arduino IDE** : ESP32 is being coded on Arduino IDE.
 - **OBS Studio / OBS Ninja** : OBS is used for taking your phone cameras view (which should be set up on the car) into Unity game screen.
-- **Unity 3D** : Game is developed on Unity Engine. There are extra mechanics in addition to controlling the car such as a lap time system and nitrous/boost system.
+- **Unity 3D** : Game is developed on Unity Engine. Input system as well as communicating with the car (using ESP32's Wi-Fi support).There are extra mechanics in addition to controlling the car such as a lap time system and nitrous/boost system.
