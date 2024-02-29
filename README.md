@@ -18,4 +18,6 @@ For building the car ; <br>
 - **L298N Motor Driver** : Component required to drive the DC motors.
 - **2 x DC Motor With Reduction** : Motors to give power to wheels to drive and steer the car.
 - **2 x Wheel** : Lightweight plastic-silicon alloy wheel.
-- 
+- **2 x ASPILSAN INR18650A28 Batteries** : Batteries to power up the ESP32 thus the motors.
+- **HC-SR04** : Distance sensor to determine upon passing a checkpoint.
+- **Body for Car** : Self-explanatory.
