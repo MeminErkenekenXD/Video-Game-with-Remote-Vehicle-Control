@@ -21,3 +21,9 @@ For building the car ; <br>
 - **2 x ASPILSAN INR18650A28 Batteries** : Batteries to power up the ESP32 thus the motors.
 - **HC-SR04** : Distance sensor to determine upon passing a checkpoint.
 - **Body for Car** : Self-explanatory.
+
+For developing the game ; <br>
+
+- **Arduino IDE** : ESP32 is being coded on Arduino IDE.
+- **OBS Studio / OBS Ninja** : OBS is used for taking your phone cameras view (which should be set up on the car) into Unity game screen.
+- **Unity 3D** : Game is developed on Unity Engine. There are extra mechanics in addition to controlling the car such as a lap time system and nitrous/boost system.
