@@ -1,8 +1,8 @@
 # Video-Game-with-Remote-Vehicle-Control
-**Summary** <br>
+# Overview
 This project is a video game where you remote control a car from your computer with Wi-Fi communication. Using your keyboard or gamepad as a controller. You also get live camera feedback from the car which you see on your game screen. The goal is to complete a lap by passing 3 checkpoints and return to the first checkpoint.You can create tracks using checkpoints but the car can also be controlled without them.
 
-**Why Use Gamepad** <br>
+# Why Use Gamepad 
 In wi-fi or radio controlled vehicles, the controls are usually provided by simple control
 schemes such as forward, backward, right, left, forward right, forward left, backward
 right and backward left. Such shallow control schemes are insufficient to control the
@@ -10,7 +10,7 @@ vehicle with the desired accuracy and precision. In this project we use a game
 controller (gamepad) to control the velocity and direction of the vehicle exactly as we
 want.
 
-**Components** <br>
+# Components
 
 For building the car ; <br>
 
